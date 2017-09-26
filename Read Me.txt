@@ -1,0 +1,19 @@
+Softhound.com
+---------------
+1. Install Program & Close completely
+2. Make A New Folder in Named "lserver-softhound"
+3. Copy All Content From Crack Folder to Folder You created (As per system architecture)
+4. Run Install.exe & wait till it shows "successfully installed license server"
+5. Press Window Key + R & Wait till run box appears
+6. Now write "services.msc" (Without Quotos) & hit enter key
+7. Search for "Jetbrains License Server By DVT" & Start it using right click
+8. Now Start Application & it'll ask for activation
+9. Now Go to license server tab & paste this : http://127.0.0.1:1337
+10. Click Discover Server & It'll be activated
+11. Enjoy & Share!
+------------
+Links
+------------
+Website : softhound.com
+Request : softhound.com/contact/
+About   : softhound.com/about/
